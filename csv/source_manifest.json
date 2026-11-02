@@ -1,0 +1,82 @@
+{
+  "provenance": "Original Excel workbooks acquired through the Philippine Department of Transportation (DOTr) Freedom of Information (FOI) process, as supplied by the data owner.",
+  "foi_request_id": null,
+  "foi_request_url": null,
+  "foi_acquisition_date": null,
+  "encoding": "UTF-8",
+  "delimiter": ",",
+  "line_ending": "LF",
+  "numeric_policy": "Stored Excel numeric text preserved without rounding; blanks remain empty fields.",
+  "reconciliation_absolute_tolerance": "0.000001",
+  "workbooks": [
+    {
+      "workbook": "Daily Hourly 2023.xlsx",
+      "sha256": "5048304dc919f2b25991498094acb4c3a802918ce2e08eb98bc3979c22e8ccd4",
+      "size_bytes": 2192985,
+      "sheets": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "hourly_csv": "csv/mrt3_hourly_2023.csv",
+      "hourly_rows": 8928,
+      "daily_csv": "csv/mrt3_daily_2023.csv",
+      "daily_rows": 372
+    },
+    {
+      "workbook": "Daily Hourly 2024.xlsx",
+      "sha256": "80dbf11ed17bb30b68900569d37377f6f3170572b90c239daace74f1a4f2dec8",
+      "size_bytes": 2156602,
+      "sheets": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "hourly_csv": "csv/mrt3_hourly_2024.csv",
+      "hourly_rows": 8928,
+      "daily_csv": "csv/mrt3_daily_2024.csv",
+      "daily_rows": 372
+    },
+    {
+      "workbook": "Daily Hourly 2025.xlsx",
+      "sha256": "0c454e64ab062e1650068a77130c54d9d7c29f588e056e6bc55f3872b5e4e66d",
+      "size_bytes": 2189500,
+      "sheets": [
+        "Jan",
+        "Feb",
+        "Mar",
+        "April",
+        "May",
+        "Jun",
+        "Jul",
+        "Aug",
+        "Sep",
+        "Oct",
+        "Nov",
+        "Dec"
+      ],
+      "hourly_csv": "csv/mrt3_hourly_2025.csv",
+      "hourly_rows": 8928,
+      "daily_csv": "csv/mrt3_daily_2025.csv",
+      "daily_rows": 372
+    }
+  ]
+}

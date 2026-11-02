@@ -1,0 +1,312 @@
+issue,source_workbook,source_sheet,report_date,source_row,source_cell,field,source_value,comparison_value,detail
+hour_label_sequence_mismatch,Daily Hourly 2023.xlsx,1,2023-01-03,94,A94,time_label,03:00 - 03:59,02:00,Label retained; expected hour is inferred only from position in the 03:00-to-02:59 template.
+hour_label_sequence_mismatch,Daily Hourly 2023.xlsx,1,2023-01-05,156,A156,time_label,03:00 - 03:59,02:00,Label retained; expected hour is inferred only from position in the 03:00-to-02:59 template.
+hour_label_sequence_mismatch,Daily Hourly 2023.xlsx,2,2023-02-03,94,A94,time_label,03:00 - 03:59,02:00,Label retained; expected hour is inferred only from position in the 03:00-to-02:59 template.
+hour_label_sequence_mismatch,Daily Hourly 2023.xlsx,2,2023-02-05,156,A156,time_label,03:00 - 03:59,02:00,Label retained; expected hour is inferred only from position in the 03:00-to-02:59 template.
+outside_sheet_month,Daily Hourly 2023.xlsx,2,2023-03-01,873,A873,report_date,2023-03-01,2023-02,Extra report block retained; exclude date_in_sheet_month=false for calendar analysis.
+outside_sheet_month,Daily Hourly 2023.xlsx,2,2023-03-02,904,A904,report_date,2023-03-02,2023-02,Extra report block retained; exclude date_in_sheet_month=false for calendar analysis.
+outside_sheet_month,Daily Hourly 2023.xlsx,2,2023-03-03,935,A935,report_date,2023-03-03,2023-02,Extra report block retained; exclude date_in_sheet_month=false for calendar analysis.
+hour_label_sequence_mismatch,Daily Hourly 2023.xlsx,3,2023-03-03,94,A94,time_label,03:00 - 03:59,02:00,Label retained; expected hour is inferred only from position in the 03:00-to-02:59 template.
+hour_label_sequence_mismatch,Daily Hourly 2023.xlsx,3,2023-03-05,156,A156,time_label,03:00 - 03:59,02:00,Label retained; expected hour is inferred only from position in the 03:00-to-02:59 template.
+hour_label_sequence_mismatch,Daily Hourly 2023.xlsx,4,2023-04-03,94,A94,time_label,03:00 - 03:59,02:00,Label retained; expected hour is inferred only from position in the 03:00-to-02:59 template.
+hour_label_sequence_mismatch,Daily Hourly 2023.xlsx,4,2023-04-05,156,A156,time_label,03:00 - 03:59,02:00,Label retained; expected hour is inferred only from position in the 03:00-to-02:59 template.
+outside_sheet_month,Daily Hourly 2023.xlsx,4,2023-05-01,935,A935,report_date,2023-05-01,2023-04,Extra report block retained; exclude date_in_sheet_month=false for calendar analysis.
+hour_label_sequence_mismatch,Daily Hourly 2023.xlsx,5,2023-05-03,94,A94,time_label,03:00 - 03:59,02:00,Label retained; expected hour is inferred only from position in the 03:00-to-02:59 template.
+hour_label_sequence_mismatch,Daily Hourly 2023.xlsx,5,2023-05-05,156,A156,time_label,03:00 - 03:59,02:00,Label retained; expected hour is inferred only from position in the 03:00-to-02:59 template.
+outside_sheet_month,Daily Hourly 2023.xlsx,6,2023-07-01,935,B935,report_date,2023-07-01,2023-06,Extra report block retained; exclude date_in_sheet_month=false for calendar analysis.
+supplementary_table,Daily Hourly 2023.xlsx,7,,534,AE534,,TIME,,Additional table to the right of the primary report; preserved in raw CSV only.
+supplementary_table,Daily Hourly 2023.xlsx,7,,565,AE565,,TIME,,Additional table to the right of the primary report; preserved in raw CSV only.
+supplementary_table,Daily Hourly 2023.xlsx,7,,596,AE596,,TIME,,Additional table to the right of the primary report; preserved in raw CSV only.
+supplementary_table,Daily Hourly 2023.xlsx,7,,627,AE627,,TIME,,Additional table to the right of the primary report; preserved in raw CSV only.
+supplementary_table,Daily Hourly 2023.xlsx,7,,658,AE658,,TIME,,Additional table to the right of the primary report; preserved in raw CSV only.
+supplementary_table,Daily Hourly 2023.xlsx,7,,689,AE689,,TIME,,Additional table to the right of the primary report; preserved in raw CSV only.
+excel_error,Daily Hourly 2023.xlsx,7,,587,AF587,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,587,AG587,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,587,AH587,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,587,AI587,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,587,AJ587,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,587,AK587,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,587,AL587,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,587,AM587,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,587,AN587,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,587,AO587,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,587,AP587,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,587,AQ587,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,587,AR587,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,587,AS587,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,587,AT587,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,587,AU587,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,587,AV587,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,587,AW587,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,587,AX587,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,587,AY587,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,587,AZ587,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,587,BA587,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,587,BB587,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,587,BC587,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,587,BD587,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,587,BE587,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,587,BF587,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,587,BG587,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,591,AF591,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,591,AG591,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,591,AH591,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,591,AI591,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,591,AJ591,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,591,AK591,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,591,AL591,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,591,AM591,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,591,AN591,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,591,AO591,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,591,AP591,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,591,AQ591,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,591,AR591,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,591,AS591,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,591,AT591,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,591,AU591,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,591,AV591,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,591,AW591,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,591,AX591,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,591,AY591,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,591,AZ591,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,591,BA591,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,591,BB591,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,591,BC591,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,591,BD591,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,591,BE591,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,591,BF591,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,591,BG591,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,618,AF618,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,618,AG618,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,618,AH618,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,618,AI618,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,618,AJ618,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,618,AK618,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,618,AL618,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,618,AM618,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,618,AN618,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,618,AO618,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,618,AP618,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,618,AQ618,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,618,AR618,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,618,AS618,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,618,AT618,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,618,AU618,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,618,AV618,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,618,AW618,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,618,AX618,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,618,AY618,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,618,AZ618,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,618,BA618,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,618,BB618,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,618,BC618,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,618,BD618,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,618,BE618,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,618,BF618,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,618,BG618,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,622,AF622,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,622,AG622,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,622,AH622,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,622,AI622,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,622,AJ622,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,622,AK622,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,622,AL622,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,622,AM622,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,622,AN622,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,622,AO622,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,622,AP622,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,622,AQ622,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,622,AR622,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,622,AS622,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,622,AT622,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,622,AU622,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,622,AV622,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,622,AW622,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,622,AX622,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,622,AY622,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,622,AZ622,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,622,BA622,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,622,BB622,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,622,BC622,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,622,BD622,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,622,BE622,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,622,BF622,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,622,BG622,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,649,AF649,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,649,AG649,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,649,AH649,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,649,AI649,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,649,AJ649,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,649,AK649,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,649,AL649,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,649,AM649,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,649,AN649,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,649,AO649,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,649,AP649,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,649,AQ649,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,649,AR649,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,649,AS649,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,649,AT649,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,649,AU649,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,649,AV649,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,649,AW649,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,649,AX649,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,649,AY649,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,649,AZ649,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,649,BA649,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,649,BB649,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,649,BC649,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,649,BD649,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,649,BE649,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,649,BF649,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,649,BG649,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,653,AF653,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,653,AG653,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,653,AH653,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,653,AI653,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,653,AJ653,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,653,AK653,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,653,AL653,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,653,AM653,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,653,AN653,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,653,AO653,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,653,AP653,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,653,AQ653,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,653,AR653,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,653,AS653,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,653,AT653,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,653,AU653,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,653,AV653,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,653,AW653,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,653,AX653,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,653,AY653,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,653,AZ653,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,653,BA653,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,653,BB653,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,653,BC653,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,653,BD653,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,653,BE653,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,653,BF653,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+excel_error,Daily Hourly 2023.xlsx,7,,653,BG653,,#DIV/0!,,Outside normalized count table; retained in raw CSV.
+hour_label_sequence_mismatch,Daily Hourly 2023.xlsx,8,2023-08-03,94,B94,time_label,03:00 - 03:59,02:00,Label retained; expected hour is inferred only from position in the 03:00-to-02:59 template.
+hour_label_sequence_mismatch,Daily Hourly 2023.xlsx,8,2023-08-05,156,B156,time_label,03:00 - 03:59,02:00,Label retained; expected hour is inferred only from position in the 03:00-to-02:59 template.
+hour_label_sequence_mismatch,Daily Hourly 2023.xlsx,9,2023-09-03,94,B94,time_label,03:00 - 03:59,02:00,Label retained; expected hour is inferred only from position in the 03:00-to-02:59 template.
+hour_label_sequence_mismatch,Daily Hourly 2023.xlsx,9,2023-09-05,156,B156,time_label,03:00 - 03:59,02:00,Label retained; expected hour is inferred only from position in the 03:00-to-02:59 template.
+outside_sheet_month,Daily Hourly 2023.xlsx,9,2023-10-01,935,B935,report_date,2023-10-01,2023-09,Extra report block retained; exclude date_in_sheet_month=false for calendar analysis.
+hour_label_sequence_mismatch,Daily Hourly 2023.xlsx,10,2023-10-03,94,B94,time_label,03:00 - 03:59,02:00,Label retained; expected hour is inferred only from position in the 03:00-to-02:59 template.
+hour_label_sequence_mismatch,Daily Hourly 2023.xlsx,10,2023-10-05,156,B156,time_label,03:00 - 03:59,02:00,Label retained; expected hour is inferred only from position in the 03:00-to-02:59 template.
+hour_label_sequence_mismatch,Daily Hourly 2023.xlsx,11,2023-11-03,94,B94,time_label,03:00 - 03:59,02:00,Label retained; expected hour is inferred only from position in the 03:00-to-02:59 template.
+hour_label_sequence_mismatch,Daily Hourly 2023.xlsx,11,2023-11-05,156,B156,time_label,03:00 - 03:59,02:00,Label retained; expected hour is inferred only from position in the 03:00-to-02:59 template.
+outside_sheet_month,Daily Hourly 2023.xlsx,11,2023-12-01,935,B935,report_date,2023-12-01,2023-11,Extra report block retained; exclude date_in_sheet_month=false for calendar analysis.
+hour_label_sequence_mismatch,Daily Hourly 2023.xlsx,12,2023-12-03,94,B94,time_label,03:00 - 03:59,02:00,Label retained; expected hour is inferred only from position in the 03:00-to-02:59 template.
+hour_label_sequence_mismatch,Daily Hourly 2023.xlsx,12,2023-12-05,156,B156,time_label,03:00 - 03:59,02:00,Label retained; expected hour is inferred only from position in the 03:00-to-02:59 template.
+system_station_sum_mismatch,Daily Hourly 2023.xlsx,12,2023-12-15,451,AC451,total_entry,19043,19044,Stored system total differs from sum of numeric station values; blanks omitted.
+system_station_sum_mismatch,Daily Hourly 2023.xlsx,12,2023-12-15,452,AC452,total_entry,19802,19801,Stored system total differs from sum of numeric station values; blanks omitted.
+hour_label_sequence_mismatch,Daily Hourly 2024.xlsx,1,2024-01-03,94,B94,time_label,03:00 - 03:59,02:00,Label retained; expected hour is inferred only from position in the 03:00-to-02:59 template.
+hour_label_sequence_mismatch,Daily Hourly 2024.xlsx,1,2024-01-05,156,B156,time_label,03:00 - 03:59,02:00,Label retained; expected hour is inferred only from position in the 03:00-to-02:59 template.
+hour_label_sequence_mismatch,Daily Hourly 2024.xlsx,2,2024-02-03,94,B94,time_label,03:00 - 03:59,02:00,Label retained; expected hour is inferred only from position in the 03:00-to-02:59 template.
+hour_label_sequence_mismatch,Daily Hourly 2024.xlsx,2,2024-02-05,156,B156,time_label,03:00 - 03:59,02:00,Label retained; expected hour is inferred only from position in the 03:00-to-02:59 template.
+outside_sheet_month,Daily Hourly 2024.xlsx,2,2024-03-01,904,B904,report_date,2024-03-01,2024-02,Extra report block retained; exclude date_in_sheet_month=false for calendar analysis.
+outside_sheet_month,Daily Hourly 2024.xlsx,2,2024-03-02,935,B935,report_date,2024-03-02,2024-02,Extra report block retained; exclude date_in_sheet_month=false for calendar analysis.
+hour_label_sequence_mismatch,Daily Hourly 2024.xlsx,3,2024-03-03,94,B94,time_label,03:00 - 03:59,02:00,Label retained; expected hour is inferred only from position in the 03:00-to-02:59 template.
+hour_label_sequence_mismatch,Daily Hourly 2024.xlsx,3,2024-03-05,156,B156,time_label,03:00 - 03:59,02:00,Label retained; expected hour is inferred only from position in the 03:00-to-02:59 template.
+hour_label_sequence_mismatch,Daily Hourly 2024.xlsx,4,2024-04-03,94,B94,time_label,03:00 - 03:59,02:00,Label retained; expected hour is inferred only from position in the 03:00-to-02:59 template.
+hour_label_sequence_mismatch,Daily Hourly 2024.xlsx,4,2024-04-05,156,B156,time_label,03:00 - 03:59,02:00,Label retained; expected hour is inferred only from position in the 03:00-to-02:59 template.
+outside_sheet_month,Daily Hourly 2024.xlsx,4,2024-05-01,935,B935,report_date,2024-05-01,2024-04,Extra report block retained; exclude date_in_sheet_month=false for calendar analysis.
+hour_label_sequence_mismatch,Daily Hourly 2024.xlsx,5,2024-05-03,94,B94,time_label,03:00 - 03:59,02:00,Label retained; expected hour is inferred only from position in the 03:00-to-02:59 template.
+hour_label_sequence_mismatch,Daily Hourly 2024.xlsx,5,2024-05-05,156,B156,time_label,03:00 - 03:59,02:00,Label retained; expected hour is inferred only from position in the 03:00-to-02:59 template.
+hour_label_sequence_mismatch,Daily Hourly 2024.xlsx,6,2024-06-03,94,B94,time_label,03:00 - 03:59,02:00,Label retained; expected hour is inferred only from position in the 03:00-to-02:59 template.
+hour_label_sequence_mismatch,Daily Hourly 2024.xlsx,6,2024-06-05,156,B156,time_label,03:00 - 03:59,02:00,Label retained; expected hour is inferred only from position in the 03:00-to-02:59 template.
+outside_sheet_month,Daily Hourly 2024.xlsx,6,2024-07-01,935,B935,report_date,2024-07-01,2024-06,Extra report block retained; exclude date_in_sheet_month=false for calendar analysis.
+hour_label_sequence_mismatch,Daily Hourly 2024.xlsx,7,2024-07-03,94,B94,time_label,03:00 - 03:59,02:00,Label retained; expected hour is inferred only from position in the 03:00-to-02:59 template.
+hour_label_sequence_mismatch,Daily Hourly 2024.xlsx,7,2024-07-05,156,B156,time_label,03:00 - 03:59,02:00,Label retained; expected hour is inferred only from position in the 03:00-to-02:59 template.
+hour_label_sequence_mismatch,Daily Hourly 2024.xlsx,8,2024-08-03,94,B94,time_label,03:00 - 03:59,02:00,Label retained; expected hour is inferred only from position in the 03:00-to-02:59 template.
+hour_label_sequence_mismatch,Daily Hourly 2024.xlsx,8,2024-08-05,156,B156,time_label,03:00 - 03:59,02:00,Label retained; expected hour is inferred only from position in the 03:00-to-02:59 template.
+hour_label_sequence_mismatch,Daily Hourly 2024.xlsx,9,2024-09-03,94,B94,time_label,03:00 - 03:59,02:00,Label retained; expected hour is inferred only from position in the 03:00-to-02:59 template.
+hour_label_sequence_mismatch,Daily Hourly 2024.xlsx,9,2024-09-05,156,B156,time_label,03:00 - 03:59,02:00,Label retained; expected hour is inferred only from position in the 03:00-to-02:59 template.
+outside_sheet_month,Daily Hourly 2024.xlsx,9,2024-10-01,935,B935,report_date,2024-10-01,2024-09,Extra report block retained; exclude date_in_sheet_month=false for calendar analysis.
+hour_label_sequence_mismatch,Daily Hourly 2024.xlsx,10,2024-10-03,94,B94,time_label,03:00 - 03:59,02:00,Label retained; expected hour is inferred only from position in the 03:00-to-02:59 template.
+hour_label_sequence_mismatch,Daily Hourly 2024.xlsx,10,2024-10-05,156,B156,time_label,03:00 - 03:59,02:00,Label retained; expected hour is inferred only from position in the 03:00-to-02:59 template.
+hour_label_sequence_mismatch,Daily Hourly 2024.xlsx,11,2024-11-03,94,B94,time_label,03:00 - 03:59,02:00,Label retained; expected hour is inferred only from position in the 03:00-to-02:59 template.
+hour_label_sequence_mismatch,Daily Hourly 2024.xlsx,11,2024-11-05,156,B156,time_label,03:00 - 03:59,02:00,Label retained; expected hour is inferred only from position in the 03:00-to-02:59 template.
+outside_sheet_month,Daily Hourly 2024.xlsx,11,2024-12-01,935,B935,report_date,2024-12-01,2024-11,Extra report block retained; exclude date_in_sheet_month=false for calendar analysis.
+hour_label_sequence_mismatch,Daily Hourly 2024.xlsx,12,2024-12-03,94,B94,time_label,03:00 - 03:59,02:00,Label retained; expected hour is inferred only from position in the 03:00-to-02:59 template.
+hour_label_sequence_mismatch,Daily Hourly 2024.xlsx,12,2024-12-05,156,B156,time_label,03:00 - 03:59,02:00,Label retained; expected hour is inferred only from position in the 03:00-to-02:59 template.
+system_station_sum_mismatch,Daily Hourly 2024.xlsx,12,2024-12-10,312,AC312,total_entry,455241,0,Stored system total differs from sum of numeric station values; blanks omitted.
+system_station_sum_mismatch,Daily Hourly 2024.xlsx,12,2024-12-10,312,AD312,total_exit,454123,0,Stored system total differs from sum of numeric station values; blanks omitted.
+hour_label_sequence_mismatch,Daily Hourly 2025.xlsx,Jan,2025-01-03,94,B94,time_label,03:00 - 03:59,02:00,Label retained; expected hour is inferred only from position in the 03:00-to-02:59 template.
+hour_label_sequence_mismatch,Daily Hourly 2025.xlsx,Jan,2025-01-05,156,B156,time_label,03:00 - 03:59,02:00,Label retained; expected hour is inferred only from position in the 03:00-to-02:59 template.
+hour_label_sequence_mismatch,Daily Hourly 2025.xlsx,Feb,2025-02-03,94,B94,time_label,03:00 - 03:59,02:00,Label retained; expected hour is inferred only from position in the 03:00-to-02:59 template.
+hour_label_sequence_mismatch,Daily Hourly 2025.xlsx,Feb,2025-02-05,156,B156,time_label,03:00 - 03:59,02:00,Label retained; expected hour is inferred only from position in the 03:00-to-02:59 template.
+outside_sheet_month,Daily Hourly 2025.xlsx,Feb,2025-03-01,873,B873,report_date,2025-03-01,2025-02,Extra report block retained; exclude date_in_sheet_month=false for calendar analysis.
+outside_sheet_month,Daily Hourly 2025.xlsx,Feb,2025-03-02,904,B904,report_date,2025-03-02,2025-02,Extra report block retained; exclude date_in_sheet_month=false for calendar analysis.
+outside_sheet_month,Daily Hourly 2025.xlsx,Feb,2025-03-03,935,B935,report_date,2025-03-03,2025-02,Extra report block retained; exclude date_in_sheet_month=false for calendar analysis.
+hour_label_sequence_mismatch,Daily Hourly 2025.xlsx,Mar,2025-03-03,94,B94,time_label,03:00 - 03:59,02:00,Label retained; expected hour is inferred only from position in the 03:00-to-02:59 template.
+hour_label_sequence_mismatch,Daily Hourly 2025.xlsx,Mar,2025-03-05,156,B156,time_label,03:00 - 03:59,02:00,Label retained; expected hour is inferred only from position in the 03:00-to-02:59 template.
+hour_label_sequence_mismatch,Daily Hourly 2025.xlsx,April,2025-04-03,94,B94,time_label,03:00 - 03:59,02:00,Label retained; expected hour is inferred only from position in the 03:00-to-02:59 template.
+hour_label_sequence_mismatch,Daily Hourly 2025.xlsx,April,2025-04-05,156,B156,time_label,03:00 - 03:59,02:00,Label retained; expected hour is inferred only from position in the 03:00-to-02:59 template.
+outside_sheet_month,Daily Hourly 2025.xlsx,April,2025-05-01,935,B935,report_date,2025-05-01,2025-04,Extra report block retained; exclude date_in_sheet_month=false for calendar analysis.
+hour_label_sequence_mismatch,Daily Hourly 2025.xlsx,May,2025-05-03,94,B94,time_label,03:00 - 03:59,02:00,Label retained; expected hour is inferred only from position in the 03:00-to-02:59 template.
+hour_label_sequence_mismatch,Daily Hourly 2025.xlsx,May,2025-05-05,156,B156,time_label,03:00 - 03:59,02:00,Label retained; expected hour is inferred only from position in the 03:00-to-02:59 template.
+hour_label_sequence_mismatch,Daily Hourly 2025.xlsx,Jun,2025-06-03,94,B94,time_label,03:00 - 03:59,02:00,Label retained; expected hour is inferred only from position in the 03:00-to-02:59 template.
+hour_label_sequence_mismatch,Daily Hourly 2025.xlsx,Jun,2025-06-05,156,B156,time_label,03:00 - 03:59,02:00,Label retained; expected hour is inferred only from position in the 03:00-to-02:59 template.
+daily_hourly_sum_mismatch,Daily Hourly 2025.xlsx,Jun,2025-06-19,591,G591,gma_kamuning_entry,21147,21152,Stored daily total differs from sum of numeric hourly values; blanks omitted.
+daily_hourly_sum_mismatch,Daily Hourly 2025.xlsx,Jun,2025-06-19,591,H591,gma_kamuning_exit,22570,22575,Stored daily total differs from sum of numeric hourly values; blanks omitted.
+daily_hourly_sum_mismatch,Daily Hourly 2025.xlsx,Jun,2025-06-19,591,I591,cubao_entry,47346,47351,Stored daily total differs from sum of numeric hourly values; blanks omitted.
+daily_hourly_sum_mismatch,Daily Hourly 2025.xlsx,Jun,2025-06-19,591,J591,cubao_exit,56461,56466,Stored daily total differs from sum of numeric hourly values; blanks omitted.
+daily_hourly_sum_mismatch,Daily Hourly 2025.xlsx,Jun,2025-06-19,591,K591,santolan_entry,7992,7997,Stored daily total differs from sum of numeric hourly values; blanks omitted.
+daily_hourly_sum_mismatch,Daily Hourly 2025.xlsx,Jun,2025-06-19,591,L591,santolan_exit,8437,8442,Stored daily total differs from sum of numeric hourly values; blanks omitted.
+daily_hourly_sum_mismatch,Daily Hourly 2025.xlsx,Jun,2025-06-19,591,M591,ortigas_entry,29427,29431,Stored daily total differs from sum of numeric hourly values; blanks omitted.
+daily_hourly_sum_mismatch,Daily Hourly 2025.xlsx,Jun,2025-06-19,591,N591,ortigas_exit,31655,31659,Stored daily total differs from sum of numeric hourly values; blanks omitted.
+daily_hourly_sum_mismatch,Daily Hourly 2025.xlsx,Jun,2025-06-19,591,O591,shaw_blvd_entry,50062,50067,Stored daily total differs from sum of numeric hourly values; blanks omitted.
+daily_hourly_sum_mismatch,Daily Hourly 2025.xlsx,Jun,2025-06-19,591,P591,shaw_blvd_exit,48835,48840,Stored daily total differs from sum of numeric hourly values; blanks omitted.
+daily_hourly_sum_mismatch,Daily Hourly 2025.xlsx,Jun,2025-06-19,591,Q591,boni_ave_entry,26984,26989,Stored daily total differs from sum of numeric hourly values; blanks omitted.
+daily_hourly_sum_mismatch,Daily Hourly 2025.xlsx,Jun,2025-06-19,591,R591,boni_ave_exit,27808,27813,Stored daily total differs from sum of numeric hourly values; blanks omitted.
+daily_hourly_sum_mismatch,Daily Hourly 2025.xlsx,Jun,2025-06-19,591,S591,guadalupe_entry,34440,34445,Stored daily total differs from sum of numeric hourly values; blanks omitted.
+daily_hourly_sum_mismatch,Daily Hourly 2025.xlsx,Jun,2025-06-19,591,T591,guadalupe_exit,34820,34825,Stored daily total differs from sum of numeric hourly values; blanks omitted.
+daily_hourly_sum_mismatch,Daily Hourly 2025.xlsx,Jun,2025-06-19,591,W591,ayala_ave_entry,42385,42390,Stored daily total differs from sum of numeric hourly values; blanks omitted.
+daily_hourly_sum_mismatch,Daily Hourly 2025.xlsx,Jun,2025-06-19,591,X591,ayala_ave_exit,45745,45750,Stored daily total differs from sum of numeric hourly values; blanks omitted.
+daily_hourly_sum_mismatch,Daily Hourly 2025.xlsx,Jun,2025-06-19,591,AB591,taft_exit,62569,62578,Stored daily total differs from sum of numeric hourly values; blanks omitted.
+system_station_sum_mismatch,Daily Hourly 2025.xlsx,Jun,2025-06-19,591,AC591,total_entry,431743,431704,Stored system total differs from sum of numeric station values; blanks omitted.
+system_station_sum_mismatch,Daily Hourly 2025.xlsx,Jun,2025-06-19,591,AD591,total_exit,430478,430430,Stored system total differs from sum of numeric station values; blanks omitted.
+outside_sheet_month,Daily Hourly 2025.xlsx,Jun,2025-07-01,935,B935,report_date,2025-07-01,2025-06,Extra report block retained; exclude date_in_sheet_month=false for calendar analysis.
+hour_label_sequence_mismatch,Daily Hourly 2025.xlsx,Jul,2025-07-03,94,B94,time_label,03:00 - 03:59,02:00,Label retained; expected hour is inferred only from position in the 03:00-to-02:59 template.
+hour_label_sequence_mismatch,Daily Hourly 2025.xlsx,Jul,2025-07-05,156,B156,time_label,03:00 - 03:59,02:00,Label retained; expected hour is inferred only from position in the 03:00-to-02:59 template.
+hour_label_sequence_mismatch,Daily Hourly 2025.xlsx,Aug,2025-08-03,94,B94,time_label,03:00 - 03:59,02:00,Label retained; expected hour is inferred only from position in the 03:00-to-02:59 template.
+hour_label_sequence_mismatch,Daily Hourly 2025.xlsx,Aug,2025-08-05,156,B156,time_label,03:00 - 03:59,02:00,Label retained; expected hour is inferred only from position in the 03:00-to-02:59 template.
+daily_hourly_sum_mismatch,Daily Hourly 2025.xlsx,Aug,2025-08-13,405,T405,guadalupe_exit,39305.200000000004,39334.2000000000004,Stored daily total differs from sum of numeric hourly values; blanks omitted.
+system_station_sum_mismatch,Daily Hourly 2025.xlsx,Aug,2025-08-13,405,AD405,total_exit,469886.7,469857.6999999999869,Stored system total differs from sum of numeric station values; blanks omitted.
+hour_label_sequence_mismatch,Daily Hourly 2025.xlsx,Sep,2025-09-03,94,B94,time_label,03:00 - 03:59,02:00,Label retained; expected hour is inferred only from position in the 03:00-to-02:59 template.
+hour_label_sequence_mismatch,Daily Hourly 2025.xlsx,Sep,2025-09-05,156,B156,time_label,03:00 - 03:59,02:00,Label retained; expected hour is inferred only from position in the 03:00-to-02:59 template.
+daily_hourly_sum_mismatch,Daily Hourly 2025.xlsx,Sep,2025-09-17,529,O529,shaw_blvd_entry,53754,53759,Stored daily total differs from sum of numeric hourly values; blanks omitted.
+daily_hourly_sum_mismatch,Daily Hourly 2025.xlsx,Sep,2025-09-17,529,P529,shaw_blvd_exit,53959.7,53964.7000000000004,Stored daily total differs from sum of numeric hourly values; blanks omitted.
+system_station_sum_mismatch,Daily Hourly 2025.xlsx,Sep,2025-09-17,529,AC529,total_entry,470725,470720,Stored system total differs from sum of numeric station values; blanks omitted.
+system_station_sum_mismatch,Daily Hourly 2025.xlsx,Sep,2025-09-17,529,AD529,total_exit,469121.49999999994,469116.5000000000112,Stored system total differs from sum of numeric station values; blanks omitted.
+outside_sheet_month,Daily Hourly 2025.xlsx,Sep,2025-10-01,935,B935,report_date,2025-10-01,2025-09,Extra report block retained; exclude date_in_sheet_month=false for calendar analysis.
+hour_label_sequence_mismatch,Daily Hourly 2025.xlsx,Oct,2025-10-03,94,B94,time_label,03:00 - 03:59,02:00,Label retained; expected hour is inferred only from position in the 03:00-to-02:59 template.
+hour_label_sequence_mismatch,Daily Hourly 2025.xlsx,Oct,2025-10-05,156,B156,time_label,03:00 - 03:59,02:00,Label retained; expected hour is inferred only from position in the 03:00-to-02:59 template.
+hour_label_sequence_mismatch,Daily Hourly 2025.xlsx,Nov,2025-11-03,94,B94,time_label,03:00 - 03:59,02:00,Label retained; expected hour is inferred only from position in the 03:00-to-02:59 template.
+hour_label_sequence_mismatch,Daily Hourly 2025.xlsx,Nov,2025-11-05,156,B156,time_label,03:00 - 03:59,02:00,Label retained; expected hour is inferred only from position in the 03:00-to-02:59 template.
+daily_hourly_sum_mismatch,Daily Hourly 2025.xlsx,Nov,2025-11-10,312,I312,cubao_entry,27703,27704,Stored daily total differs from sum of numeric hourly values; blanks omitted.
+daily_hourly_sum_mismatch,Daily Hourly 2025.xlsx,Nov,2025-11-10,312,Q312,boni_ave_entry,12987,12988,Stored daily total differs from sum of numeric hourly values; blanks omitted.
+daily_hourly_sum_mismatch,Daily Hourly 2025.xlsx,Nov,2025-11-10,312,S312,guadalupe_entry,19424,19425,Stored daily total differs from sum of numeric hourly values; blanks omitted.
+system_station_sum_mismatch,Daily Hourly 2025.xlsx,Nov,2025-11-10,312,AC312,total_entry,222072,222069,Stored system total differs from sum of numeric station values; blanks omitted.
+daily_hourly_sum_mismatch,Daily Hourly 2025.xlsx,Nov,2025-11-14,436,C436,north_ave_entry,48561,48563,Stored daily total differs from sum of numeric hourly values; blanks omitted.
+daily_hourly_sum_mismatch,Daily Hourly 2025.xlsx,Nov,2025-11-14,436,D436,north_ave_exit,45435.399999999994,45437.3999999999998,Stored daily total differs from sum of numeric hourly values; blanks omitted.
+daily_hourly_sum_mismatch,Daily Hourly 2025.xlsx,Nov,2025-11-14,436,E436,quezon_ave_entry,31500,31502,Stored daily total differs from sum of numeric hourly values; blanks omitted.
+daily_hourly_sum_mismatch,Daily Hourly 2025.xlsx,Nov,2025-11-14,436,F436,quezon_ave_exit,27082.199999999997,27084.2,Stored daily total differs from sum of numeric hourly values; blanks omitted.
+daily_hourly_sum_mismatch,Daily Hourly 2025.xlsx,Nov,2025-11-14,436,Q436,boni_ave_entry,33498,33503,Stored daily total differs from sum of numeric hourly values; blanks omitted.
+daily_hourly_sum_mismatch,Daily Hourly 2025.xlsx,Nov,2025-11-14,436,R436,boni_ave_exit,32184.899999999994,32189.9,Stored daily total differs from sum of numeric hourly values; blanks omitted.
+system_station_sum_mismatch,Daily Hourly 2025.xlsx,Nov,2025-11-14,436,AC436,total_entry,501844,501835,Stored system total differs from sum of numeric station values; blanks omitted.
+system_station_sum_mismatch,Daily Hourly 2025.xlsx,Nov,2025-11-14,436,AD436,total_exit,499823.29999999993,499814.299999999941,Stored system total differs from sum of numeric station values; blanks omitted.
+outside_sheet_month,Daily Hourly 2025.xlsx,Nov,2025-12-01,935,B935,report_date,2025-12-01,2025-11,Extra report block retained; exclude date_in_sheet_month=false for calendar analysis.
+hour_label_sequence_mismatch,Daily Hourly 2025.xlsx,Dec,2025-12-03,94,B94,time_label,03:00 - 03:59,02:00,Label retained; expected hour is inferred only from position in the 03:00-to-02:59 template.
+hour_label_sequence_mismatch,Daily Hourly 2025.xlsx,Dec,2025-12-05,156,B156,time_label,03:00 - 03:59,02:00,Label retained; expected hour is inferred only from position in the 03:00-to-02:59 template.
+daily_hourly_sum_mismatch,Daily Hourly 2025.xlsx,Dec,2025-12-10,312,I312,cubao_entry,61220,61221,Stored daily total differs from sum of numeric hourly values; blanks omitted.
+daily_hourly_sum_mismatch,Daily Hourly 2025.xlsx,Dec,2025-12-10,312,J312,cubao_exit,65647.8,65648.7999999999997,Stored daily total differs from sum of numeric hourly values; blanks omitted.
+system_station_sum_mismatch,Daily Hourly 2025.xlsx,Dec,2025-12-10,312,AC312,total_entry,514688,514687,Stored system total differs from sum of numeric station values; blanks omitted.
+system_station_sum_mismatch,Daily Hourly 2025.xlsx,Dec,2025-12-10,312,AD312,total_exit,513556.30000000005,513555.300000000000,Stored system total differs from sum of numeric station values; blanks omitted.
+daily_hourly_sum_mismatch,Daily Hourly 2025.xlsx,Dec,2025-12-16,498,G498,gma_kamuning_entry,23250,23254,Stored daily total differs from sum of numeric hourly values; blanks omitted.
+daily_hourly_sum_mismatch,Daily Hourly 2025.xlsx,Dec,2025-12-16,498,H498,gma_kamuning_exit,22498.499999999996,22503.4999999999995998,Stored daily total differs from sum of numeric hourly values; blanks omitted.
+system_station_sum_mismatch,Daily Hourly 2025.xlsx,Dec,2025-12-16,498,AC498,total_entry,488546,488542,Stored system total differs from sum of numeric station values; blanks omitted.
+system_station_sum_mismatch,Daily Hourly 2025.xlsx,Dec,2025-12-16,498,AD498,total_exit,486401.50000000006,486396.5000000000109,Stored system total differs from sum of numeric station values; blanks omitted.
